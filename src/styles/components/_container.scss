@@ -1,0 +1,9 @@
+.container {
+    width: calc(100% - 3rem);
+    margin-inline: 1.5rem;
+}
+@media screen and (max-width: 340px) {
+    .container {
+        margin-inline: 1rem;
+    }
+}

@@ -1,0 +1,21 @@
+.topbutton {
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+  background-color: #333;
+  color: white;
+  padding: 10px;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  opacity: 0; // Inicia invisible
+  transition: opacity 0.3s ease-in-out; // Fade-in/out effect
+  z-index: 1000;
+
+  &__icon {
+    font-size: 24px;
+  }
+
+  &.topbutton__visible {
+    opacity: 1; // Aparece cuando se desplaza hacia abajo
+  }
+}

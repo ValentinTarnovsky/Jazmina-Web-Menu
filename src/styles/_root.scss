@@ -1,0 +1,8 @@
+#root {
+    background:
+        linear-gradient(rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.95)), /* capa semi-transparente */
+        url("/img/bg.jpg"); /* imagen de fondo */
+}
+html {
+    scroll-behavior: smooth;
+}

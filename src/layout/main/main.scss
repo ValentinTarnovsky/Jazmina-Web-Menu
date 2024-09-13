@@ -1,0 +1,14 @@
+.main {
+    .empanadas {
+        ul {
+            list-style:disc;
+            display: flex;
+            flex-direction: column;
+            gap: 0.125rem;
+            li {
+                margin-left: 1.5rem;
+            }
+        }
+    }
+
+}
