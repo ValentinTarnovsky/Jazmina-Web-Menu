@@ -322,26 +322,26 @@ const menu = {
             "CocaCola Zero 1.75l": {
                 precio: 3400,
             },
-            "CocaCola 750ml": {
-                precio: 3400,
+            "CocaCola 500ml": {
+                precio: 1500,
             },
-            "CocaCola Zero 750ml": {
-                precio: 3400,
+            "CocaCola Zero 500ml": {
+                precio: 1500,
             },
-            "CocaCola Light 750ml": {
-                precio: 3400,
+            "CocaCola Light 500ml": {
+                precio: 1500,
             },
             "Sprite 1.75l": {
                 precio: 3400,
             },
-            "Sprite 750ml": {
-                precio: 3400,
+            "Sprite 500ml": {
+                precio: 1500,
             },
             "Fanta 1.75l": {
                 precio: 3400,
             },
-            "Fanta 750ml": {
-                precio: 3400,
+            "Fanta 500ml": {
+                precio: 1500,
             },
         },
         cerveza: {
@@ -355,19 +355,19 @@ const menu = {
                 precio: 1500,
             },
             "Heineken 1l": {
-                precio: 3400,
+                precio: 3500,
             },
             "Palermo 1l": {
-                precio: 3400,
+                precio: 2500,
             },
         },
     },
     postres: {
         "Chocotorta": {
-            precio: 2200,
+            precio: 2000,
         },
         "Oreo": {
-            precio: 2200,
+            precio: 2000,
         },
     },
     promos: {
